@@ -176,7 +176,7 @@ grantees <- mutate(grantees,
 
 #####
 
-# Define UI for application that draws a histogram
+# UI, basic dashboard with just a datatable
 
 
 ui <- dashboardPage(
