@@ -47,7 +47,7 @@ As an overview, here is how the entire dataset is distributed across these four 
 
 <div class="row">
 <div class="column-left">
-![](Background_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+<img src="Background_files/figure-html/unnamed-chunk-1-1.png"/> <!-- -->
 
 </div>
 <div class="column-right">
@@ -66,7 +66,7 @@ Grant amount fun facts.
 
 <div class="row">
 <div class="column-left">
-![](Background_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+<img src="Background_files/figure-html/unnamed-chunk-3-1.png"/> <!-- -->
 </div>
 <div class="column-right">
 Number of funders fun facts.
@@ -75,7 +75,7 @@ Number of funders fun facts.
 
 <div class="row">
 <div class="column-left">
-![](Background_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+<img src="Background_files/figure-html/unnamed-chunk-4-1.png"/> <!-- -->
 </div>
 <div class="column-right">
 Num grants fun facts go here.
